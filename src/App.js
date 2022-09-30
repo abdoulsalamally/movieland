@@ -5,7 +5,7 @@ import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 //7ff58f6d
 
-const API_URL = "http://www.omdbapi.com?apikey=7ff58f6d";
+const API_URL = "https://www.omdbapi.com?apikey=7ff58f6d";
 
 const movie1 = {
   Title: "Hollywood's Master Storytellers: Spiderman Live",
